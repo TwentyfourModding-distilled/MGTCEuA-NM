@@ -2,7 +2,6 @@ package io.github.mireole.mgtceua.client.widgets;
 
 import gregtech.api.gui.widgets.PhantomFluidWidget;
 import gregtech.api.gui.widgets.PhantomSlotWidget;
-import gregtech.common.terminal.app.recipechart.widget.PhantomWidget;
 import io.github.mireole.mgtceua.MGTCEuA;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fluids.FluidStack;
